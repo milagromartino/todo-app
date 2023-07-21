@@ -2,7 +2,7 @@
 Una aplicación simple de lista de tareas hecha con React.
 # Uso
 1. Escribe una tarea haciendo click en el boton (+)
-2. Haz click en "Añadir tarea" o "Cancelar" para no hacer nada.
+2. Haz click en "Añadir tarea" para agregar la tarea o "Cancelar" para no hacer nada.
 3. Haz click en la "X" para eliminar una tarea de la lista.
 4. Haz click en el "Check" para marcar como completado una tarea de la lista.
 # Link
