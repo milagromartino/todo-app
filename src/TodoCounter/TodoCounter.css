@@ -1,0 +1,20 @@
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    background-color: #bb999c;
+    color: #F2EFE9;
+    font-family: 'Montserrat', sans-serif;
+}
+.TodoCounter{
+    font-size: 28px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    background-color: #7B8CDE;
+    font-weight: normal;
+}
+.TodoCounter span {
+    font-weight: bold;
+}
